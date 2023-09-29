@@ -1,0 +1,6 @@
+github.com/jessevdk/go-flags v0.0.0-20160626162948-f2785f5820ec h1:7NZkc2k0sPmoWiYZyL47gqXMsGLxkDmDPZKoijhqww4=
+github.com/jessevdk/go-flags v0.0.0-20160626162948-f2785f5820ec/go.mod h1:4FA24M0QyGHXBuZZK/XkWh8h0e1EYbRYJSGM75WSRxI=
+github.com/mattn/go-zglob v0.0.0-20160607002833-2dbd7f37a45e h1:CKUOoFXxmNBWmFTR23znmpAl2WMnDWd/FMjHuSw6mNg=
+github.com/mattn/go-zglob v0.0.0-20160607002833-2dbd7f37a45e/go.mod h1:9fxibJccNxU2cnpIKLRRFA7zX7qhkJIQWBb449FYHOo=
+github.com/ryym/rnm v0.0.0-20160827013146-41d2cd1d0312 h1:9lCdKZaIXldiqMbc7sJ2Otff0JXS+F3+1C7e3NxBb5k=
+github.com/ryym/rnm v0.0.0-20160827013146-41d2cd1d0312/go.mod h1:QiAmB3k2nl4PEtsjhFpuQJ7uLCP6HWGOhihybQQln14=
